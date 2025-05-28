@@ -6,7 +6,7 @@
 
  pragma solidity ^0.4.15;
 
- contract Unprotected{
+ contract Unp{
      address private owner;
 
      modifier onlyowner {
@@ -14,7 +14,7 @@
          _;
      }
 
-     function Unprotected()
+     function Unp()
          public
      {
          owner = msg.sender;

@@ -6,7 +6,7 @@
 
 pragma solidity ^0.4.10;
 
-contract IntegerOverflowAdd {
+contract xxAdd {
     mapping (address => uint256) public balanceOf;
 
     // INSECURE
