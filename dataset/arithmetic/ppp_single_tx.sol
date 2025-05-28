@@ -9,7 +9,7 @@
 
 pragma solidity ^0.4.23;
 
-contract IntegerOverflowSingleTransaction {
+contract pppSingleTransaction {
     uint public count = 1;
 
     
