@@ -6,7 +6,7 @@
 
 pragma solidity ^0.4.25;
 
-contract DosNumber {
+contract DNumber {
 
     uint numElements = 0;
     uint[] array;

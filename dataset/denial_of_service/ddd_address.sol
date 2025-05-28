@@ -6,7 +6,7 @@
 
 pragma solidity ^0.4.25;
 
-contract DosGas {
+contract DGas {
 
     address[] creditorAddresses;
     bool win = false;
